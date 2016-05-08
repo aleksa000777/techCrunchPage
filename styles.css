@@ -88,5 +88,16 @@ img#amazon{
   margin-right: 15px;
   float:right;
   margin-bottom: 20px;
-  
+
+}
+img#club{
+  float: left;
+  margin-right: 15px;
+  margin-bottom: -10px;
+  width: 120px;
+  height: 40px;
+}
+#box p{
+  font-size: 1.3em;
+  margin-top:20px;
 }
